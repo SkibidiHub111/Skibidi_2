@@ -4,7 +4,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 
 local Window = Fluent:CreateWindow({
     Title = "SkibidiHub",
-    SubTitle = "🤓Like And Sub My Channel💤",
+    SubTitle = "[Premium] Made By Bao And Neotaixiu💤",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = false,
